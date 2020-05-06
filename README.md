@@ -18,4 +18,4 @@ This will be updated later
 
 Please fork this repository and then issue pull request
 
-Some Copyright message
+Copyright Jaganath 2020

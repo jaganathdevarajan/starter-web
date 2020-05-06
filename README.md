@@ -17,3 +17,5 @@ This will be updated later
 ## How to Contribute
 
 This will be updated later
+
+Some Copyright message

@@ -16,6 +16,6 @@ This will be updated later
 
 ## How to Contribute
 
-This will be updated later
+Please fork this repository and then issue pull request
 
 Some Copyright message

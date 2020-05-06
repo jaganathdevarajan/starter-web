@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Standard Deployment or using Docker
+Standard Deployment or using Docker!
 
 ## How to Contribute
 
